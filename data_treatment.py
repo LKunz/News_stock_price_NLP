@@ -1,7 +1,3 @@
-###############################################################################
-#                    IMPACT OF NEW ON STOCK PRICE CHANGES
-###############################################################################
-
 # This code cleans the data and implements divers algorithms.
 # For data retrieving, please see the retrieving code (retrieve.py).
 
