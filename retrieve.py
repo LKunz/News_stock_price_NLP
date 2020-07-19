@@ -1,7 +1,3 @@
-###############################################################################
-#                    IMPACT OF NEWS ON STOCK PRICE CHANGES
-###############################################################################
-
 # This code retrieves the data from Reuters eikon 
 # For data analysis, please see data_treatment.py
 
