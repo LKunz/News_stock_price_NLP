@@ -1,5 +1,5 @@
 ###############################################################################
-#                    ADVANCED DATA ANALYSIS 2019 - PROJECT
+#                    IMPACT OF NEW ON STOCK PRICE CHANGES
 ###############################################################################
 
 # This code retrieves the data from Reuters eikon 
