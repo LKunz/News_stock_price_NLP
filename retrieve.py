@@ -1,5 +1,5 @@
 ###############################################################################
-#                    IMPACT OF NEW ON STOCK PRICE CHANGES
+#                    IMPACT OF NEWS ON STOCK PRICE CHANGES
 ###############################################################################
 
 # This code retrieves the data from Reuters eikon 
